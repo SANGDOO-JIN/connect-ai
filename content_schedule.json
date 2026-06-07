@@ -1,0 +1,12 @@
+{
+     "weekly_plan": {
+       "mon": {"type": "릴스", "theme": "업무 타임랩스", "time": "18:00"},
+       "wed": {"type": "피드", "theme": "제품 라이프", "time": "12:00"},
+       "fri": {"type": "릴스", "theme": "팔로워 Q&A", "time": "20:00"}
+     },
+     "hashtag_patterns": {
+       "general": ["#1인사업가", "#미니멀라이프", "#스몰비즈니스"],
+       "product": ["#폰케이스자판기", "#빨래방운영", "#SAAS준비"],
+       "location": ["#서울", "#부산", "#대구"]
+     }
+   }
